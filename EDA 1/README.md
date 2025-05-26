@@ -17,4 +17,6 @@ In this file, we have done :
 
 by various methods such as transformation, imputiong values and visualization to get a proper overview of data.
 
+NOTE : Location of CSV file must be changed in the file **EDA on Sales Data.ipynb** according to file location and new path must be used. Otherwise, code will give error.
+The file **EDA on Sales Data.html** contains the executed code in an uneditable format, also containing the outputs we will get after executing the code.
 
