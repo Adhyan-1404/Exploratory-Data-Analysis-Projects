@@ -1,4 +1,4 @@
-# EDA on Sales Data
+# Overview of project of EDA on Sales Data
 
 Here, I done EDA on Sales data *( k_circle_sales.csv )* taken from Kaggle using Python libraries like :
 * Numpy
