@@ -23,9 +23,9 @@ These steps were accomplished using a combination of data transformations, imput
 
 **Important:** Make sure to update the **file path** for `k_circle_sales.csv` in the notebook **EDA on Sales Data.ipynb** to match your local directory. Failing to do so will result in a file-not-found error.
 
---
+---
 
-### 📁 Included Files:
+### Included Files:
 
 * `EDA on Sales Data.ipynb` – Jupyter Notebook containing the entire code and workflow.
 * `EDA on Sales Data.html` – Rendered HTML version of the notebook (non-editable), showcasing both the code and its output.
