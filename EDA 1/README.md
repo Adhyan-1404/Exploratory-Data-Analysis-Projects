@@ -29,4 +29,6 @@ These steps were accomplished using a combination of data transformations, imput
 
 * `EDA on Sales Data.ipynb` – Jupyter Notebook containing the entire code and workflow.
 * `EDA on Sales Data.html` – Rendered HTML version of the notebook (non-editable), showcasing both the code and its output.
+* `k_circle_sales.csv` - Raw sales data sourced from Kaggle.
+* `README.md` - Project overview and instructions.
 
