@@ -1,25 +1,32 @@
-# Overview of project of EDA on Sales Data
 
-Here, I done **EDA** on Sales data *( k_circle_sales.csv )* taken from Kaggle using Python libraries like :
+# Overview of EDA on Sales Data
 
-* Numpy
-* Pandas
-* Matplotlib
-* Seaborn
+In this project, I performed **Exploratory Data Analysis (EDA)** on a sales dataset (`k_circle_sales.csv`) sourced from Kaggle using popular Python libraries:
 
-Note : **Warnings** is a module in Python used to handle warnings.
+* **NumPy**
+* **Pandas**
+* **Matplotlib**
+* **Seaborn**
 
-In this file, we have done :
+> 💡 **Note:** The `warnings` module in Python is used to manage and suppress warning messages during execution.
 
-* Handled Missing Values
-* Feature Enginnering
-* Outliers Treatment
-* Correcting incorrect values
-* Summary Statistics
-* Reduce Skewness and try to make data normal
+### Key Steps Performed:
 
-by various methods such as transformation, imputiong values and visualization to get a proper overview of data.
+* Handling **Missing Values**
+* **Feature Engineering**
+* **Outlier Treatment**
+* **Correction of Incorrect Values**
+* **Summary Statistics Generation**
+* Reducing **Skewness** and transforming data to approximate **normality**
 
-NOTE : _Location of CSV file_ must be changed in the file **EDA on Sales Data.ipynb** according to file location and new path must be used. Otherwise, code will give error.
-The file **EDA on Sales Data.html** contains the executed code in an uneditable format, also containing the outputs we will get after executing the code.
+These steps were accomplished using a combination of data transformations, imputation techniques, and visualizations to get a comprehensive understanding of the dataset.
+
+> ⚠️ **Important:** Make sure to update the **file path** for `k_circle_sales.csv` in the notebook **EDA on Sales Data.ipynb** to match your local directory. Failing to do so will result in a file-not-found error.
+
+---
+
+### 📁 Included Files:
+
+* `EDA on Sales Data.ipynb` – Jupyter Notebook containing the entire code and workflow.
+* `EDA on Sales Data.html` – Rendered HTML version of the notebook (non-editable), showcasing both the code and its output.
 
