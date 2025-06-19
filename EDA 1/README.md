@@ -8,7 +8,7 @@ In this project, I performed **Exploratory Data Analysis (EDA)** on a sales data
 * **Matplotlib**
 * **Seaborn**
 
-> 💡 **Note:** The `warnings` module in Python is used to manage and suppress warning messages during execution.
+**Note:** The `warnings` module in Python is used to manage and suppress warning messages during execution.
 
 ### Key Steps Performed:
 
@@ -21,9 +21,9 @@ In this project, I performed **Exploratory Data Analysis (EDA)** on a sales data
 
 These steps were accomplished using a combination of data transformations, imputation techniques, and visualizations to get a comprehensive understanding of the dataset.
 
-> ⚠️ **Important:** Make sure to update the **file path** for `k_circle_sales.csv` in the notebook **EDA on Sales Data.ipynb** to match your local directory. Failing to do so will result in a file-not-found error.
+**Important:** Make sure to update the **file path** for `k_circle_sales.csv` in the notebook **EDA on Sales Data.ipynb** to match your local directory. Failing to do so will result in a file-not-found error.
 
----
+--
 
 ### 📁 Included Files:
 
